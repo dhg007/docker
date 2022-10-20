@@ -1,0 +1,2 @@
+FROM node:16
+RUN npm i pnpm@v7.13.6 --location=global
